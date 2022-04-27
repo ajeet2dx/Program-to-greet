@@ -1,2 +1,2 @@
 # Program-to-greet
-To Run this Project - Greeting_Message.py
+To Run this Project - Greeting_message.py
